@@ -1,8 +1,8 @@
 # 📡 FiberPowerCalc – Simulador de Orçamento de Potência Óptica
 
-**Autor:** Jacivaldo Carvalho
-**Data:** 13 de maio de 2025
-**Versão:** v1.0.0 "init-dev"
+#### **Autor:** Jacivaldo Carvalho
+#### **Data:** 13 de maio de 2025
+#### **Versão:** v1.0.0 "init-dev"
 ---
 
 ## 🔍 Visão Geral
